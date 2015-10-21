@@ -3,9 +3,9 @@ debian_jessi_pxe
 
 This is fully Automated Debian (jessi) Installation  with PXE from a board ex: BananaPi, RaspberryPi, OrangePi PC ..
 
--After  install pixicore-PXE booting from https://github.com/mhtranbn/installers.git, need to:
+-After  install pixicore-PXE booting from https://github.com/Superordinate/pixecore.git, need to:
 ```
-git clone https://github.com/mhtranbn/debian_pxe.git
+git clone https://github.com/Superordinate/debian_pxe.git
 
 cd /debian_pxe/amd64/
 
