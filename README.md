@@ -3,7 +3,7 @@ debian_jessi_pxe
 
 This is fully Automated Debian (jessi) Installation  with PXE from a board ex: BananaPi, RaspberryPi, OrangePi PC ..
 
--After  install pixicore-PXE booting from https://github.com/Superordinate/pixecore.git, need to:
+-After  install pixicore-PXE booting from https://github.com/Superordinate/pixecore.git, need to :
 ```
 git clone https://github.com/Superordinate/debian_pxe.git
 
@@ -18,6 +18,7 @@ Note:
 It will auto delete all partitions old.
 ```
 User & pass for this debian:
+```
 use: root
 pass: r00tme
 ```
